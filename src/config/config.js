@@ -7,7 +7,6 @@ if (env === "local") {
         BACKEND_URL: "https://pitchu-backend.vercel.app",
         SECRET_KEY: "pitchudailychit1212131313",
 
-
     }
 } else if (env === "demo") {
     configration = {
