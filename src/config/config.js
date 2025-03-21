@@ -19,5 +19,4 @@ if (env === "local") {
 
     }
 }
-
 export default configration;
